@@ -1,7 +1,7 @@
 # Telecom Customer Churn Prediction
-
+![screenshot](churn.png)
 ## Project Overview
-The Telecom Customer Churn Prediction project aims to predict whether a customer will churn (leave the company) based on various features related to customer demographics, services subscribed, and account information. This project uses a dataset containing information about customers and their interactions with the telecom services.
+The Telecom Customer Churn Prediction project aims to predict whether a customer will churn (leave the company) based on various features related to customer demographics, services subscribed, and account information. This project uses a dataset containing information about customers and their interactions with telecom services.
 
 ## Dataset Description
 The dataset consists of 21 features, which include customer demographics, service details, and account information.
