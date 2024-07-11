@@ -5,7 +5,7 @@ The Telecom Customer Churn Prediction project aims to predict whether a customer
 
 ## Dataset Description
 The dataset consists of 21 features, which include customer demographics, service details, and account information.
-
+https://www.kaggle.com/datasets/sowmyakuruba/customer-churn-dataset
 
 ## Project Steps
 1. Loading the Data
